@@ -1,6 +1,12 @@
 # PendulumLab
 Physics Simulator for Single and Multiple Pendulums Based on C++
 
+<div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/VisionNext100/VisionNext100.github.io@main/public/images/projects/project-pendulum.png" width="800" alt="PendulumLab
+">
+    <br>
+</div>
+
 ## 一、项目内容
 
 ### 1. 项目名称
